@@ -1,3 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\Admin\OneDrive\3-Курс\Математична теорія ризиків\Lab.2\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  ConsoleApplication1.vcxproj -> C:\Users\Admin\OneDrive\3-Курс\Математична теорія ризиків\Lab.2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
